@@ -1,4 +1,4 @@
-# Comprehensive Image Preprocessing and Coin Detection using OpenCV
+M# Comprehensive Image Preprocessing and Coin Detection using OpenCV
 
 ## Introduction
 This repository contains code for a Python application that performs comprehensive image preprocessing and coin detection using the OpenCV library. The code is organized into several tasks, each serving a crucial role in the process of detecting and counting coins within an input image ('coin.png').
